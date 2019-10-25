@@ -1,0 +1,88 @@
+html, body {
+    height: 100%;
+}
+.logo {
+    position: absolute;
+    margin: auto;
+    top: 29%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input[type=text] {
+    position: absolute;
+    top: 39%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 560px;
+    height: 48px;
+    border-radius: 25px;
+    margin-top: 5px;
+    border: 2px solid #EDECEC;
+    
+}
+
+.google-search i {
+    position: absolute;
+    top: 38%;
+    left: 36%;
+    color: #aaaaaa;
+    padding-bottom: 10px;
+    padding-top: 5px;
+   
+    
+
+}
+.button {
+    position: absolute;
+    margin: auto;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: none;
+  }
+
+  button {
+      border: 2px;
+      padding: 8px 16px;
+      font-family: Arial, sans-serif;
+      background-color: #EDECEC;
+      font-size: 0.80em;
+      border-radius: 3px;
+      color: #3E413E;
+  }
+
+  .nav-item a {
+    font-size: 13px;
+    color: #454445;
+}
+
+.ml-auto {
+    display: inline-flex;
+    padding-inline: 40px;
+
+}
+
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    background-color: #EDECEC;
+  }
+
+  .grid {
+      position: absolute;
+      top: 12px;
+      left: 1870px;
+      color: #454445;
+      padding: 0px 5px;
+      
+  }
